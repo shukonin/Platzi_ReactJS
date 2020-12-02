@@ -1,10 +1,17 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "./App";
+import "bootstrap/dist/css/bootstrap.css";
+import "./global.css";
+
+import Badge from "./Components/Badge";
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <Badge
+    firstName="Lily"
+    lastName="Kaufman"
+    avatarURL=""
+    jobTitle="FrontEnd Engineer"
+    twitter="sparragus"
+  />,
   document.getElementById("app")
 );
