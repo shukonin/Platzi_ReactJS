@@ -3,15 +3,6 @@ import ReactDOM from "react-dom";
 import "bootstrap/dist/css/bootstrap.css";
 import "./global.css";
 
-import Badge from "./Components/Badge";
+import App from "./Components/App";
 
-ReactDOM.render(
-  <Badge
-    firstName="Lily"
-    lastName="Kaufman"
-    avatarURL=""
-    jobTitle="FrontEnd Engineer"
-    twitter="sparragus"
-  />,
-  document.getElementById("app")
-);
+ReactDOM.render(<App />, document.getElementById("app"));
