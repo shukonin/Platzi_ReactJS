@@ -44,6 +44,30 @@
       "jobTitle": "Dynamic Tactics Liaison",
       "twitter": "KellyCorkery06275-3676",
       "avatarUrl": "https://www.gravatar.com/avatar/00e35de53a06a655fe5b6ac8b96bdb84?d=identicon"
+    },
+    {
+      "firstName": "Freddy",
+      "lastName": "Vega",
+      "email": "freddy@platzi.com",
+      "jobTitle": "CEO",
+      "twitter": "freddier",
+      "id": "AN4GxOo"
+    },
+    {
+      "firstName": "Christian",
+      "lastName": "Van der",
+      "email": "christian@platzi.com",
+      "jobTitle": "CTO",
+      "twitter": "cvander",
+      "id": "h3DBVuD"
+    },
+    {
+      "firstName": "Rafael",
+      "lastName": "Lagunas",
+      "email": "rafa@platzi.com",
+      "jobTitle": "Master Coach",
+      "twitter": "rafastaria",
+      "id": "WXXS5qC"
     }
   ]
 }
