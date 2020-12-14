@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# platzi_reactjs
+Project develop throughout the Platzi course of React.js.
+
+https://platzi.com/clases/react/
+Teacher: Richard Kaufman (@sparragus)
+>>>>>>> 1514403ea059c870d30b68f4e7734a22b0de7ee2
